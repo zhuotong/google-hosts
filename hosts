@@ -1,50 +1,12 @@
-#·çĞĞ¸öÈËhosts
+#é£è¡Œä¸ªäººhosts
 # Update Address: https://github.com/fengixng/google-hosts
 127.0.0.1     localhost
 
-#¸öÈËÌí¼Ó
-185.31.19.133     assets-cdn.github.com
-185.31.19.133     avatars0.githubusercontent.com
-185.31.19.133     avatars1.githubusercontent.com
-185.31.19.133     avatars2.githubusercontent.com
-185.31.19.133     avatars3.githubusercontent.com
-185.31.19.133     cloud.githubusercontent.com
-185.31.19.133     camo.githubusercontent.com
-
-#ipv6
-2001:41d0:8:e8ad::1     v6.ipv6-test.com
-2001:41d0:8:e8ad::1     ipv6-test.com¡¢
-#ipv6     End
-
-#ÆÁ±Î
+#å±è”½
 127.0.0.1     www.google-analytics.com
 127.0.0.1     query.yahooapis.com
 127.0.0.1     s1926.connectupdate.com
 127.0.0.1     s926.connectupdate.com
-
-#ÁªÍ¨»º´æ
-120.52.73.100     30.media.tumblr.com
-120.52.73.100     31.media.tumblr.com
-120.52.73.100     32.media.tumblr.com
-120.52.73.100     33.media.tumblr.com
-120.52.73.100     34.media.tumblr.com
-120.52.73.100     35.media.tumblr.com
-120.52.73.100     36.media.tumblr.com
-120.52.73.100     37.media.tumblr.com
-120.52.73.100     38.media.tumblr.com
-120.52.73.100     39.media.tumblr.com
-120.52.73.100     40.media.tumblr.com
-120.52.73.100     41.media.tumblr.com
-120.52.73.100     42.media.tumblr.com
-120.52.73.100     43.media.tumblr.com
-120.52.73.100     44.media.tumblr.com
-120.52.73.100     45.media.tumblr.com
-120.52.73.100     46.media.tumblr.com
-120.52.73.100     47.media.tumblr.com
-120.52.73.100     48.media.tumblr.com
-202.171.253.133     49.media.tumblr.com
-120.52.73.130    vt.tumblr.com
-#ÁªÍ¨»º´æ     End
 
 #google
 202.86.162.172     gaming.youtube.com
@@ -3281,7 +3243,7 @@
 
 
 
-#googleÖĞ¹ú
+#googleä¸­å›½
 203.208.39.200     0.gvt0.cn
 203.208.39.200     1.gvt0.cn
 203.208.39.200     2.gvt0.cn
@@ -3316,9 +3278,9 @@
 203.208.39.200     www.google.cn
 203.208.39.200     www.gstatic.cn
 203.208.39.200     www.gvt0.cn
-#googleÖĞ¹ú     End
+#googleä¸­å›½     End
 
-#google·­Òë
+#googleç¿»è¯‘
 202.86.162.172     translate.google.com.sg
 202.86.162.172     translate.google.co.jp
 202.86.162.172     translate.google.com.tw
@@ -3326,7 +3288,7 @@
 202.86.162.172     translate.google.com.hk
 202.86.162.172     translate.googleapis.com
 203.208.39.200     translate.google.cn
-#google·­Òë     End
+#googleç¿»è¯‘     End
 
 #TwitterStart
 104.244.42.132     api.tweetdeck.com
@@ -3419,7 +3381,7 @@
 209.17.68.209     oi56.tinypic.com
 #Twitter     End
 
-#wikimedia     Î¬»ùÃ½Ìå
+#wikimedia     ç»´åŸºåª’ä½“
 198.35.26.96     download.wikimedia.org
 198.35.26.96     dumps.wikimedia.org
 198.35.26.96     svn.wikimedia.org
@@ -3442,9 +3404,9 @@
 198.35.26.96     text-lb.ulsfo.wikimedia.org
 198.35.26.96     mobile-lb.ulsfo.wikimedia.org
 198.35.26.96     upload-lb.ulsfo.wikimedia.org
-#Î¬»ùÃ½Ìå     End
+#ç»´åŸºåª’ä½“     End
 
-#WikiBooks     Î¬»ù½Ì¿ÆÊé
+#WikiBooks     ç»´åŸºæ•™ç§‘ä¹¦
 198.35.26.96     wikibooks.org
 198.35.26.96     www.wikibooks.org
 198.35.26.96     aa.wikibooks.org
@@ -3570,7 +3532,7 @@
 198.35.26.96     zu.wikibooks.org
 #WikiBooks     End
 
-#WikiNews     Î¬»ùĞÂÎÅ
+#WikiNews     ç»´åŸºæ–°é—»
 198.35.26.96     wikinews.org
 198.35.26.96     www.wikinews.org
 198.35.26.96     ar.wikinews.org
@@ -3606,9 +3568,9 @@
 198.35.26.96     tr.wikinews.org
 198.35.26.96     uk.wikinews.org
 198.35.26.96     zh.wikinews.org
-#WikiNews     Î¬»ùĞÂÎÅ     End
+#WikiNews     ç»´åŸºæ–°é—»     End
 
-#WikiPedia     Î¬»ù°Ù¿Æ
+#WikiPedia     ç»´åŸºç™¾ç§‘
 198.35.26.96     wikipedia.org
 198.35.26.96     www.wikipedia.org
 198.35.26.96     aa.wikipedia.org
@@ -3875,15 +3837,15 @@
 198.35.26.96     zh-min-nan.wikipedia.org
 198.35.26.96     zh-yue.wikipedia.org
 198.35.26.96     zu.wikipedia.org
-#WikiPedia     Î¬»ù°Ù¿Æ     End
+#WikiPedia     ç»´åŸºç™¾ç§‘     End
 
-##WikiPedia     Mobile     Î¬»ù°Ù¿ÆÒÆ¶¯°æ
+##WikiPedia     Mobile     ç»´åŸºç™¾ç§‘ç§»åŠ¨ç‰ˆ
 198.35.26.96     m.wikipedia.org
 198.35.26.96     en.m.wikipedia.org
 198.35.26.108     zh.m.wikipedia.org
-##WikiPedia     Mobile     Î¬»ù°Ù¿ÆÒÆ¶¯°æ     End
+##WikiPedia     Mobile     ç»´åŸºç™¾ç§‘ç§»åŠ¨ç‰ˆ     End
 
-##     WikiQuote     Î¬»ùÓïÂ¼
+##     WikiQuote     ç»´åŸºè¯­å½•
 198.35.26.96     wikiquote.org
 198.35.26.96     www.wikiquote.org
 198.35.26.96     af.wikiquote.org
@@ -3974,9 +3936,9 @@
 198.35.26.96     za.wikiquote.org
 198.35.26.96     zh.wikiquote.org
 198.35.26.96     zh-min-nan.wikiquote.org
-##     WikiQuote     Î¬»ùÓïÂ¼     End
+##     WikiQuote     ç»´åŸºè¯­å½•     End
 
-##     WikiSource     Î¬»ùÎÄ¿â
+##     WikiSource     ç»´åŸºæ–‡åº“
 198.35.26.96     wikisource.org
 198.35.26.96     www.wikisource.org
 198.35.26.96     ang.wikisource.org
@@ -4039,9 +4001,9 @@
 198.35.26.96     yi.wikisource.org
 198.35.26.96     zh.wikisource.org
 198.35.26.96     zh-min-nan.wikisource.org
-##     WikiSource     Î¬»ùÎÄ¿â     End
+##     WikiSource     ç»´åŸºæ–‡åº“     End
 
-##     Wiktionary     Î¬»ù´Êµä
+##     Wiktionary     ç»´åŸºè¯å…¸
 198.35.26.96     wiktionary.org
 198.35.26.96     www.wiktionary.org
 198.35.26.96     aa.wiktionary.org
@@ -4214,9 +4176,9 @@
 198.35.26.96     zh.wiktionary.org
 198.35.26.96     zh-min-nan.wiktionary.org
 198.35.26.96     zu.wiktionary.org
-##     Wiktionary     Î¬»ù´Êµä     End
+##     Wiktionary     ç»´åŸºè¯å…¸     End
 
-##     Wikiversity     Î¬»ùÑ§Ôº
+##     Wikiversity     ç»´åŸºå­¦é™¢
 198.35.26.96     wikiversity.org
 198.35.26.96     www.wikiversity.org
 198.35.26.96     ar.wikiversity.org
@@ -4233,7 +4195,7 @@
 198.35.26.96     pt.wikiversity.org
 198.35.26.96     ru.wikiversity.org
 198.35.26.96     sv.wikiversity.org
-##     Wikiversity     Î¬»ùÑ§Ôº     End
+##     Wikiversity     ç»´åŸºå­¦é™¢     End
 
 #     Facebook
 69.171.230.1     mqtt.facebook.com
