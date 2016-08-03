@@ -1,7 +1,7 @@
 ---
 ### google hosts
 google.维基百科，facebook，Twitter，DMM的hosts
-
+修改hosts无法观看youtube
 不定期更新，不保证能随时正常使用
 
 
