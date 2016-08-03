@@ -1,7 +1,9 @@
 ---
 ### google hosts
 google.维基百科，facebook，Twitter，DMM的hosts
-修改hosts无法观看youtube
+
+修改hosts无法观看youtube，观看youtube请使用dnsmasq配置文件
+
 不定期更新，不保证能随时正常使用
 
 
