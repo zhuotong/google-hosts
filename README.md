@@ -18,4 +18,4 @@ dnsmasq使用的规则，包含google，维基百科，facebook，twitch
 
 ---
 ##本项目HOSTS和dnsmasq部分IP地址使用香港移动sni proxy服务器，非访问网站官方服务器，流量需要经过服务器转发，安全性不作保证，请使用者自行承担风险
-17/2/11 youtube可以观看视频，github慢
+17/2/11 youtube可以观看视频
